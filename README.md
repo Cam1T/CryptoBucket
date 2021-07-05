@@ -27,4 +27,4 @@ Background
 Blockchain and Cryptocurrency has been making headlines since late  2017 and I figured it would be good to get my feet wet by combining both my interest in iOS development together with cryptocurrencies. Having invested in some of these coins, I found myself having to check prices of these crypto coins constantly and that was when I decided to create this app for my personal use. At the moment, the app is powered using coingecko's API which has over 5,600 coins and support for different currencies.
 
 Thoughts & Challenges
-Building this app was definitely a challenge but I enjoyed the process nonetheless , first time implementing core data to store data locally.
+Building this app was definitely a challenge but I enjoyed the process nonetheless , first time implementing core data to store data locally on the device.
